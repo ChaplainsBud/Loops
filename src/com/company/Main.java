@@ -15,7 +15,9 @@ public class Main {
 //           System.out.println(i);
 //       }
 
-
+        for (int i = 2; i <=20; i+=2){
+            System.out.println(i);
+        }
 
     }
 }
