@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58bbca67-a004-49f7-b67f-2ffd521fbb3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,22 +15,22 @@
   </component>
   <component name="ProjectId" id="1X2YyzcZXvhM7nBiCpNeSejyAtd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -60,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580245914170</updated>
       <workItem from="1580245918124" duration="2145000" />
+      <workItem from="1580259922841" duration="3248000" />
     </task>
     <servers />
   </component>
@@ -71,10 +72,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1273" height="230" key="GridCell.Tab.0.bottom" timestamp="1580263058941">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1273" height="230" key="GridCell.Tab.0.bottom/65.23.1375.877@65.23.1375.877" timestamp="1580263058941" />
+    <state width="1273" height="230" key="GridCell.Tab.0.center" timestamp="1580263058941">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1273" height="230" key="GridCell.Tab.0.center/65.23.1375.877@65.23.1375.877" timestamp="1580263058941" />
+    <state width="1273" height="230" key="GridCell.Tab.0.left" timestamp="1580263058940">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1273" height="230" key="GridCell.Tab.0.left/65.23.1375.877@65.23.1375.877" timestamp="1580263058940" />
+    <state width="1273" height="230" key="GridCell.Tab.0.right" timestamp="1580263058941">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1273" height="230" key="GridCell.Tab.0.right/65.23.1375.877@65.23.1375.877" timestamp="1580263058941" />
+    <state x="429" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1580259926542">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="429" y="294" key="com.intellij.ide.util.TipDialog/65.23.1375.877@65.23.1375.877" timestamp="1580259926542" />
   </component>
 </project>

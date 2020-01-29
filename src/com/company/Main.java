@@ -37,6 +37,23 @@ public class Main {
 //        }
 //        System.out.println(total);
 //
+// #7
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Enter number: ");
+//        int num = sc.nextInt();
+//        int total = 0;
+//        for (int i = num; i >= 1; i--) {
+//            total += i;
+//        }
+//        System.out.println(total);
+//#8
+//        for (int i = 1; i <=5; i++) {
+//            for (int j = 1; j <=5; j++) {
+//                System.out.print("* ");
+//            }
+//                 System.out.println("");
+//        }
+
 
 
     }
